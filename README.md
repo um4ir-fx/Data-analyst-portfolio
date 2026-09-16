@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio
+# Data Analytics Portfolio
 
 Hi, I'm **Umair Khan**
 
@@ -8,7 +8,7 @@ This repository contains my projects and hands-on work using **SQL, Excel, Power
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 | Category | Tools |
 |---|---|
@@ -21,9 +21,9 @@ This repository contains my projects and hands-on work using **SQL, Excel, Power
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 📈 Sales Analysis Dashboard
+### Sales Analysis Dashboard
 **Tools:** Power BI, Excel
 
 Analyzed sales data to identify revenue trends, top-performing products, regions, and overall business performance.
@@ -32,8 +32,8 @@ Analyzed sales data to identify revenue trends, top-performing products, regions
 
 ---
 
-### 🗄️ SQL Data Analysis
-**Tools:** MySQL, SQL
+### SQL Data Analysis
+**Tools:** MySQL
 
 Used SQL queries to clean, filter, aggregate, and analyze data to answer business-related questions.
 
@@ -41,7 +41,7 @@ Used SQL queries to clean, filter, aggregate, and analyze data to answer busines
 
 ---
 
-### 🐍 Python Data Analysis
+### Python Data Analysis
 **Tools:** Python, Pandas
 
 Performed data cleaning, exploratory data analysis, and generated insights from a real-world dataset.
@@ -50,7 +50,7 @@ Performed data cleaning, exploratory data analysis, and generated insights from 
 
 ---
 
-### 📊 Excel Dashboard
+### Excel Dashboard
 **Tools:** Microsoft Excel
 
 Created an interactive dashboard to analyze key performance indicators and present data in an easy-to-understand format.
@@ -59,7 +59,7 @@ Created an interactive dashboard to analyze key performance indicators and prese
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced Python
 - Pandas
@@ -67,19 +67,19 @@ Created an interactive dashboard to analyze key performance indicators and prese
 - Exploratory Data Analysis
 - Advanced SQL
 - Statistics for Data Analysis
-
+  
 ---
 
-## 🎯 Goals
+## Goals
 
 I'm currently building practical projects to strengthen my data analytics skills and prepare for **entry-level Data Analyst opportunities**.
 
 ---
 
-## 📫 Contact
+## Contact
 
 **GitHub:** [Your GitHub](https://github.com/um4ir-fx)
-
+**Email:** [Your email](umair.jkhan574@gmail.com)
 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
 
 **Email:** your.email@example.com
