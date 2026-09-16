@@ -40,6 +40,7 @@ Used SQL queries to clean, filter, aggregate, and analyze data to answer busines
 🔗 [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/MySQL%20World_layoffs%20Data%20Cleaning%20Project.sql)
 
 🔗 [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/MySQL%20Exploratary%20Data%20Analysis%20Project.sql)
+
 ---
 
 ### Python Data Analysis
