@@ -13,7 +13,7 @@ This repository contains my projects and hands-on work using **SQL, Excel, Power
 | Category | Tools |
 |---|---|
 | Data Analysis | Python, Pandas |
-| Database | MySQL, SQL |
+| Database | MySQL |
 | Spreadsheets | Microsoft Excel |
 | Visualization | Power BI, Tableau |
 | Data Cleaning | Excel, SQL, Pandas |
