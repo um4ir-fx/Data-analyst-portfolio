@@ -79,7 +79,7 @@ I'm currently building practical projects to strengthen my data analytics skills
 ## Contact
 
 **GitHub:** [Your GitHub](https://github.com/um4ir-fx)
-**Email:** [Your email](umair.jkhan574@gmail.com)
+
 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
 
 **Email:** your.email@example.com
