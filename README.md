@@ -23,12 +23,12 @@ This repository contains my projects and hands-on work using **SQL, Excel, Power
 
 ## Projects
 
-### Sales Analysis Dashboard
-**Tools:** Power BI, Excel
+### Data Analysis Dashboard
+**Tools:** Power BI
 
-Analyzed sales data to identify revenue trends, top-performing products, regions, and overall business performance.
+This dashboard visualizes survey response data from data professionals to analyze industry demographics, salary trends, job satisfaction, and popular tools across role levels.
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Power%20Bi%20Data_professional_Survey_Breakdown%20Project.pbix)
 
 ---
 
