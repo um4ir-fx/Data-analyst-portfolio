@@ -57,7 +57,7 @@ Performed data cleaning, exploratory data analysis, and generated insights from 
 
 Created an interactive dashboard to analyze key performance indicators and present data in an easy-to-understand format.
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Excel%20Bike_Sales_DashBoard%20Project.xlsx)
 
 ---
 
