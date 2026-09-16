@@ -32,13 +32,14 @@ Analyzed sales data to identify revenue trends, top-performing products, regions
 
 ---
 
-### SQL Data Analysis
+### MySQL Data Analysis
 **Tools:** MySQL
 
 Used SQL queries to clean, filter, aggregate, and analyze data to answer business-related questions.
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/MySQL%20World_layoffs%20Data%20Cleaning%20Project.sql)
 
+🔗 [View Project]()
 ---
 
 ### Python Data Analysis
