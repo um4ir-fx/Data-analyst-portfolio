@@ -49,6 +49,8 @@ Used SQL queries to clean, filter, aggregate, and analyze data to answer busines
 Performed data cleaning, exploratory data analysis, and generated insights from a real-world dataset.
 
  [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Pandas%20Customer_Call_List%20(Project).ipynb)
+ 
+ [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/EDA%20on%20World_population%20in%20Pandas(Project).ipynb)
 
 ---
 
@@ -65,7 +67,6 @@ Created an interactive dashboard to analyze key performance indicators and prese
 
 - Advanced Python
 - Pandas
-- Data Cleaning
 - Exploratory Data Analysis
 - Advanced SQL
 - Statistics for Data Analysis
@@ -80,8 +81,4 @@ I'm currently building practical projects to strengthen my data analytics skills
 
 ## Contact
 
-**GitHub:** [Your GitHub](https://github.com/um4ir-fx)
-
-**LinkedIn:** [Your LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
-
-**Email:** your.email@example.com
+**Email:** umair.jkhan574@gmail.com
