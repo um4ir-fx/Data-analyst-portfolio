@@ -4,7 +4,7 @@ Hi, I'm **Umair Khan**
 
 I'm an aspiring **Data Analyst** focused on turning raw data into meaningful insights and building practical data-driven projects.
 
-This repository contains my projects and hands-on work using **SQL, Excel, Power BI, Tableau, Python, and Pandas**.
+This repository contains my projects and hands-on work using **SQL, Excel, Power BI, Python, and Pandas**.
 
 ---
 
