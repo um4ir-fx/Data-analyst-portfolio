@@ -28,7 +28,7 @@ This repository contains my projects and hands-on work using **SQL, Excel, Power
 
 This dashboard visualizes survey response data from data professionals to analyze industry demographics, salary trends, job satisfaction, and popular tools across role levels.
 
-🔗 [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Power%20Bi%20Data_professional_Survey_Breakdown%20Project.pbix)
+ [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Power%20Bi%20Data_professional_Survey_Breakdown%20Project.pbix)
 
 ---
 
@@ -37,9 +37,9 @@ This dashboard visualizes survey response data from data professionals to analyz
 
 Used SQL queries to clean, filter, aggregate, and analyze data to answer business-related questions.
 
-🔗 [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/MySQL%20World_layoffs%20Data%20Cleaning%20Project.sql)
+ [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/MySQL%20World_layoffs%20Data%20Cleaning%20Project.sql)
 
-🔗 [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/MySQL%20Exploratary%20Data%20Analysis%20Project.sql)
+ [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/MySQL%20Exploratary%20Data%20Analysis%20Project.sql)
 
 ---
 
@@ -48,7 +48,7 @@ Used SQL queries to clean, filter, aggregate, and analyze data to answer busines
 
 Performed data cleaning, exploratory data analysis, and generated insights from a real-world dataset.
 
-🔗 [View Project](#)
+ [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Pandas%20Customer_Call_List%20(Project).ipynb)
 
 ---
 
@@ -57,7 +57,7 @@ Performed data cleaning, exploratory data analysis, and generated insights from 
 
 Created an interactive dashboard to analyze key performance indicators and present data in an easy-to-understand format.
 
-🔗 [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Excel%20Bike_Sales_DashBoard%20Project.xlsx)
+ [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Excel%20Bike_Sales_DashBoard%20Project.xlsx)
 
 ---
 
