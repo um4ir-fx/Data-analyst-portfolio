@@ -30,7 +30,7 @@ This dashboard visualizes survey response data from data professionals to analyz
 
  [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Power%20Bi%20Data_professional_Survey_Breakdown%20Project.pbix)
 
-[View Project dashboard]()
+[View Project dashboard](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Data%20Professional%20Survey%20Breakdown.jpg)
 
 ---
 
