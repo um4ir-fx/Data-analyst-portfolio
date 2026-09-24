@@ -30,7 +30,7 @@ This dashboard visualizes survey response data from data professionals to analyz
 
  [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Power%20Bi%20Data_professional_Survey_Breakdown%20Project.pbix)
 
-[View Project dashboard](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Data%20Professional%20Survey%20Breakdown.jpg)
+[View Project Dashboard](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Data%20Professional%20Survey%20Breakdown.jpg)
 
 ---
 
@@ -62,6 +62,8 @@ Performed data cleaning, exploratory data analysis, and generated insights from 
 Created an interactive dashboard to analyze key performance indicators and present data in an easy-to-understand format.
 
  [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Excel%20Bike_Sales_DashBoard%20Project.xlsx)
+
+ [View Project Dashboard](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Bike%20Sales%20Dashboard.jpg)
 
 ---
 
