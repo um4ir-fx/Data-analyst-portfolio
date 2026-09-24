@@ -39,9 +39,9 @@ This dashboard visualizes survey response data from data professionals to analyz
 
 Used SQL queries to clean, filter, aggregate, and analyze data to answer business-related questions.
 
- [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/MySQL%20World_layoffs%20Data%20Cleaning%20Project.sql)
+ [View Project "Data Cleaning"](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/MySQL%20World_layoffs%20Data%20Cleaning%20Project.sql)
 
- [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/MySQL%20Exploratary%20Data%20Analysis%20Project.sql)
+ [View Project "Exploratory Data Analysis"](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/MySQL%20Exploratary%20Data%20Analysis%20Project.sql)
 
 ---
 
@@ -50,9 +50,9 @@ Used SQL queries to clean, filter, aggregate, and analyze data to answer busines
 
 Performed data cleaning, exploratory data analysis, and generated insights from a real-world dataset.
 
- [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Pandas%20Customer_Call_List%20(Project).ipynb)
+ [View Project "Data Cleaning"](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/Pandas%20Customer_Call_List%20(Project).ipynb)
  
- [View Project](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/EDA%20on%20World_population%20in%20Pandas(Project).ipynb)
+ [View Project "Exploratory Data Analysis"](https://github.com/um4ir-fx/Data-analyst-portfolio/blob/main/EDA%20on%20World_population%20in%20Pandas(Project).ipynb)
 
 ---
 
